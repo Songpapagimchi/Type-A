@@ -5,7 +5,7 @@
                     <div class="px-5 py-5">
                         <router-link to="/QuestionList">
                             <button class="flex h-48 w-full bg-blue-500 hover:bg-blue-700 text-white justify-center items-center font-bold rounded-xl">
-                            A타입(소비성향)
+                            A타입(그림두개 중 택일)
                             </button>    
                         </router-link>
                     </div>
